@@ -1,9 +1,8 @@
-# Revolutionizing Nanosatellites’ Data Integrity with SEEnet:  
-### A Real-Time Ensemble Learning Approach for Single-Event Effect (SEE) Prediction
+# Revolutionizing Nanosatellites’ Data Integrity with SEEnet: A Real-Time Ensemble Learning Approach for Single-Event Effect (SEE) Prediction
 
 ---
 
-## 👩‍🔬 Author Information
+## Author Information
 
 ### **Sara Karim**  
 Department of Space System Engineering  
