@@ -1,7 +1,5 @@
 # Revolutionizing Nanosatellites’ Data Integrity with SEEnet: A Real-Time Ensemble Learning Approach for Single-Event Effect (SEE) Prediction
-
 ---
-
 ## Author Information
 
 ### **Sara Karim**  
@@ -37,12 +35,10 @@ Malaysia
 ---
 
 ### **Khair Razlan Othman**  
-Centre for Advanced Analytics  
-COE for Artificial Intelligence  
+Centre for Advanced Analytics, COE for Artificial Intelligence  
 Faculty of Engineering and Technology (FET) R/3009  
 Multimedia University  
-Jalan Ayer Keroh Lama 75450  
-Bukit Beruang, Melaka, Malaysia  
+Jalan Ayer Keroh Lama 75450, Bukit Beruang, Melaka, Malaysia  
 📧 Email: [khair.othman@mmu.edu.my](mailto:khair.othman@mmu.edu.my)
 
 ---
@@ -51,6 +47,6 @@ Bukit Beruang, Melaka, Malaysia
 Department of Space System Engineering  
 Aviation and Aerospace University  
 Dhaka, Bangladesh  
-📧 Email: * oakhondker@yahoo.co.uk*
+📧 Email: oakhondker@yahoo.co.uk
 
 ---
